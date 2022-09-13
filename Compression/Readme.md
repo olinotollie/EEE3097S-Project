@@ -1,1 +1,1 @@
-#Compressio algorithm
+# Compression algorithm
